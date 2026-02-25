@@ -1,43 +1,28 @@
-#  Sales Performance Dashboard – Excel Project
+📊 Excel Projects Portfolio
 
-##  Project Overview
+Welcome to my Excel Portfolio Repository!
 
-This project is a **Sales Performance Dashboard** created using Microsoft Excel.  
-The dashboard analyzes sales data and helps track performance against targets.
+This repository contains dashboard projects I built using Microsoft Excel as part of my continuous learning journey in Data Analytics.
 
----
+I am practicing daily and improving my skills step by step.
 
-##  Objectives
+ Projects Included
+1️⃣ Sales Performance Dashboard
 
-- Analyze Total Sales  
-- Calculate Target Hit %  
-- Identify Away From Target %  
-- Compare Sales Executive Performance  
-- Visualize Sales Distribution using Charts  
+Analyzed sales performance data
 
----
+Total Sales Calculation
 
-## Dashboard Features
+Target Hit % Analysis
 
-- KPI Metrics (Total Sales, Target %, Performance)  
-- Pivot Tables  
-- Bar Chart  
-- Pie Chart  
-- Line Chart  
-- Clean and Structured Dashboard Layout  
+Away From Target % Tracking
 
----
+Sales Executive Performance Comparison
 
-##  Tools Used
+Interactive Charts (Bar, Pie, Line)
 
-- Microsoft Excel  
-- Pivot Tables  
-- Percentage Calculations  
-- Data Visualization Techniques  
+KPI Metrics Dashboard
 
----
-This project is part of my continuous practice to become a Data Analyst.
 
----
 
-⭐ Thank you for viewing my project!
+⭐ Thank you for visiting my repository!
